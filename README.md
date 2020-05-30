@@ -1,1 +1,1 @@
-# face-and-object-detection-recognition
+# Face-and-Object-Detection-Recognition
